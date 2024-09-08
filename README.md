@@ -7,5 +7,5 @@ This is a simple landing page template built using React.js with Vite as the bui
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 
 - output--
-- ![2](https://github.com/user-attachments/assets/0dd1edb9-e04e-456a-81b5-347a30aa8252)
-![1](https://github.com/user-attachments/assets/4632c44e-a24a-41fc-b112-7de88cf5a7a8)
+![2](https://github.com/user-attachments/assets/c3aa420d-98cb-438f-a4f3-ce02b3b30f30)
+![1](https://github.com/user-attachments/assets/bff760e7-2cca-490c-84ef-ddc7e9fe7665)
